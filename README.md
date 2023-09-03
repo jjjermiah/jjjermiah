@@ -20,7 +20,6 @@ I will be updating this with more information about myself soon. Stay tuned!
 
 <details>
   <summary>Github Stats ⚡</summary>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jjjermiah&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&fire=EB5454)](https://git.io/streak-stats)
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jjjermiah&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjermiah&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
