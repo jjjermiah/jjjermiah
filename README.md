@@ -20,8 +20,8 @@ I will be updating this with more information about myself soon. Stay tuned!
 
 <details>
   <summary>Github Stats ⚡</summary>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jjjermiah&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjermiah&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jjjermiah&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjermiah&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 <!--
 **jjjermiah/jjjermiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
