@@ -1,5 +1,9 @@
-### Hi there 👋
-this profile is a work in progress lol 
+# Jermiah Joseph
+## Bioinformatics Analyst at BHKLab, Princess Margaret Cancer Research Centre
+
+Welcome to my page! I am a Western University Alumni with a MSc. in Medical Biophysics and a BSc. in Integrated Science Honors Specializing in Computer Science. 
+
+I will be updating this with more information about myself soon. Stay tuned! 
 
 ---
 
