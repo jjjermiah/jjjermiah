@@ -15,6 +15,10 @@ I will be updating this with more information about myself soon. Stay tuned!
 
 <img src="https://komarev.com/ghpvc/?username=jjjermiah&style=flat-square&color=blue" alt=""/>
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jjjermiah&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&fire=EB5454)](https://git.io/streak-stats)
+
+
 <!--
 **jjjermiah/jjjermiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
