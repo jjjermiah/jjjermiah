@@ -1,9 +1,13 @@
-# Jermiah Joseph
-## Bioinformatics Analyst at BHKLab, Princess Margaret Cancer Research Centre
+# Jermiah J. Joseph
+## Software Developer and Bioinformatics Analyst at the BHKLab, Princess Margaret Cancer Research Centre
 
-Welcome to my page! I am a Western University Alumni with a MSc. in Medical Biophysics and a BSc. in Integrated Science Honors Specializing in Computer Science. 
+Welcome to my page! I am a recent Western University Alumni with a MSc. in Medical Biophysics and a BSc. in Integrated Science Honors Specializing in Computer Science. 
 
 I will be updating this with more information about myself soon. Stay tuned! 
+
+- 🌱 I’m currently learning the fundamentals of software development, Google Cloud Platform, and Bioinformatics
+- 🤔 I'm looking for help with finding resources to learn about developing reproducible workflows
+
 
 ---
 
@@ -15,13 +19,6 @@ I will be updating this with more information about myself soon. Stay tuned!
 
 <img src="https://komarev.com/ghpvc/?username=jjjermiah&style=flat-square&color=blue" alt=""/>
 
-
-
-
-<details>
-  <summary>Github Stats ⚡</summary>
-       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jjjermiah&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&fire=EB5454)](https://git.io/streak-stats)
-</details>
 <!--
 **jjjermiah/jjjermiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
