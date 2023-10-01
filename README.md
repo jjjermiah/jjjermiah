@@ -1,4 +1,4 @@
-# Jermiah J. Joseph
+# jermiah
 ## Software Developer and Bioinformatics Analyst at the BHKLab, Princess Margaret Cancer Research Centre
 
 Welcome to my page! I am a recent Western University Alumni with a MSc. in Medical Biophysics and a BSc. in Integrated Science Honors Specializing in Computer Science. 
