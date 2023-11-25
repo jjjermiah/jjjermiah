@@ -1,7 +1,7 @@
 # jermiah
 ## Software Developer and Bioinformatics Analyst at the BHKLab, Princess Margaret Cancer Research Centre
 
-Welcome to my page! I am a Western University Alumni with a MSc. in Medical Biophysics and a BSc. in Integrated Science Honors Specializing in Computer Science. 
+Welcome to my page! I am a Western University Alumni with a MSc. in Medical Biophysics and a BSc. in Integrated Science specializing in Computer Science. 
 
 I will be updating this with more information about myself soon. Stay tuned! 
 
