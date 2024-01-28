@@ -36,6 +36,8 @@ This area is a work in progress. I will be adding more languages and tools as I 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+<img src="https://komarev.com/ghpvc/?username=jjjermiah&style=flat-square&color=blue" alt=""/>
 <!--
 Place this in your header (once per HTML file)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -45,7 +47,7 @@ Place this in your header (once per HTML file)
 
 <!--
 **jjjermiah/jjjermiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://komarev.com/ghpvc/?username=jjjermiah&style=flat-square&color=blue" alt=""/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
