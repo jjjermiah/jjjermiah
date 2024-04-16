@@ -3,10 +3,6 @@
 
 Welcome to my page! I am a Western University Alumni with a MSc. in Medical Biophysics and a BSc. in Integrated Science specializing in Computer Science. 
 
-I will be updating this with more information about myself soon. Stay tuned! 
-
-- 🌱 I’m currently learning the fundamentals of software development, Google Cloud Platform, and Bioinformatics
-- 🤔 I'm looking for help with finding resources to learn about developing reproducible workflows
 
 ### :hammer_and_wrench: Languages and Tools
 
