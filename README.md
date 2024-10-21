@@ -7,6 +7,27 @@ Welcome to my page! I am a Western University Alumni with a MSc. in Medical Biop
 ### :hammer_and_wrench: Languages and Tools
 
 This area is a work in progress. I will be adding more languages and tools as I learn them.
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jjjermiah&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jjjermiah&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjjermiah&show_icons=true" />
+</picture>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjermiah&hide=html)](https://github.com/jjjermiah/github-readme-stats)
+
+<!--
+Place this in your header (once per HTML file)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+-->
+
+<!--
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -34,11 +55,7 @@ This area is a work in progress. I will be adding more languages and tools as I 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=jjjermiah&style=flat-square&color=blue" alt=""/>
-<!--
-Place this in your header (once per HTML file)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 -->
-
 
 
 <!--
