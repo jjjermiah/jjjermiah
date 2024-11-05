@@ -20,7 +20,7 @@ This area is a work in progress. I will be adding more languages and tools as I 
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjermiah&hide=html)](https://github.com/jjjermiah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjermiah&hide=html,jupyter)](https://github.com/jjjermiah/github-readme-stats)
 
 <!--
 Place this in your header (once per HTML file)
